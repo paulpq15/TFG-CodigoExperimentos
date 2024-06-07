@@ -1,0 +1,2 @@
+Esta carpeta almacena los distintos archivos .py de los métodos RF, LDA y k-NN para el Experimento 2, el cual trataba en mantener todas
+las caracteristicas y reducir el numero de emociones a 3.
