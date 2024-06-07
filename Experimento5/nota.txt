@@ -1,0 +1,3 @@
+Esta carpeta almacena los distintos archivos .py de los métodos RF, LDA y k-NN para el Experimento 5, el cual trataba 
+en omitir la caracteristica duration de las demas , reducir el numero de emociones a 3 y obtener las caracteristicas 
+mas importantes con valores entre 0,15 y menores a 0,2.
